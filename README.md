@@ -32,6 +32,16 @@ It runs everywhere the room does:
 
 All of it lives in one TypeScript monorepo (pnpm + Turborepo) on a Firebase backend — Firestore, Realtime Database, Cloud Functions, and Auth — with Stripe and RevenueCat handling billing and Sentry watching every surface.
 
+### Open source
+
+Pieces of that platform that stand on their own, pulled out and published. Zero dependencies, fully typed, MIT.
+
+| | |
+| --- | --- |
+| **[tournament-math](https://github.com/TourneyTek-Inc/tournament-math)** | ICM equity (Malmuth-Harville), payout curves, table balancing, close-table seat planning, and stack pressure — the math behind running a live tournament. |
+| **[sentry-scrub](https://github.com/TourneyTek-Inc/sentry-scrub)** | Strip PII and secrets out of Sentry events before they leave the process. Single-pass, never-throws, no SDK dependency. |
+| **[blind-structure](https://github.com/TourneyTek-Inc/blind-structure)** | Blind schedules generated from player count, stack and target duration — aware of which chips are actually on the table. |
+
 ### How I work
 
 Founder and engineer are the same job here, so one day covers payout math and pricing, positioning and push notifications. What I optimize for:
