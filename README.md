@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.pokerhawk.io"><img alt="Poker Hawk" src="https://img.shields.io/badge/Poker_Hawk-pokerhawk.io-1f6f4a?style=for-the-badge&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/tyler-henson-354abb1ba"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:support@pokerhawk.io"><img alt="Email" src="https://img.shields.io/badge/Email-support%40pokerhawk.io-c14438?style=for-the-badge&logo=maildotru&logoColor=white"></a>
+  <a href="mailto:tyler.henson@tourneytek.com"><img alt="Email" src="https://img.shields.io/badge/Email-tyler.henson%40tourneytek.com-c14438?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 </p>
 
 ---
