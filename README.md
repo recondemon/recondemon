@@ -26,6 +26,11 @@ I work across requirements, software design, implementation, debugging, integrat
 
 **[Discuss a project at henstek.dev](https://henstek.dev)** · [Email HensTek](mailto:tyler.henson@henstek.dev) · [Freelance profile on Contra](https://contra.com/tyler_henson_bw8uuctl)
 
+### Education
+
+- **Master’s degree in Computer Science** — Colorado Technical University, 2026.
+- **App Academy graduate** — 2024.
+
 ### Selected product engineering — TourneyTek, Inc.
 
 Poker Hawk and the open-source libraries below are my work through **TourneyTek, Inc.**
