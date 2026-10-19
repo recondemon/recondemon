@@ -1,11 +1,12 @@
 <h1 align="center">Tyler Henson</h1>
 
 <p align="center">
-  <b>Founder &amp; CEO @ TourneyTek, Inc.</b> · Building <a href="https://www.pokerhawk.io">Poker Hawk</a>
+  <b>Software engineer · HensTek</b><br>
+  Founder &amp; CEO @ TourneyTek, Inc. · Building <a href="https://www.pokerhawk.io">Poker Hawk</a>
 </p>
 
 <p align="center">
-  I run the company and write the code.
+  I build and improve websites, apps, and integrations. Based in Tacoma, Washington.
 </p>
 
 <p align="center">
@@ -17,7 +18,17 @@
 
 ---
 
-### What I'm building
+### Work with me through HensTek
+
+I help individuals, creators, founders, businesses, agencies, and other organizations with focused fixes, features, scripts, API integrations, websites, and web, mobile, or desktop apps.
+
+My core tools are **TypeScript, React, Next.js, React Native, Electron, and Android**. For each engagement, we agree the scope, practical acceptance checks, price, and timing before work starts. I verify the affected user flows and provide a documented handoff with known limitations. Client-owned repositories, domains, and service accounts are the default where the engagement supports them.
+
+**[Discuss a project at henstek.dev](https://henstek.dev)** · [Email HensTek](mailto:tyler.henson@henstek.dev) · [Freelance profile on Contra](https://contra.com/tyler_henson_bw8uuctl)
+
+### Selected product engineering — TourneyTek, Inc.
+
+Poker Hawk and the open-source libraries below are my work through **TourneyTek, Inc.**
 
 **[Poker Hawk](https://www.pokerhawk.io)** — a tournament platform for poker clubs and home games. One synchronized clock across every screen in the room, with blind structures, check-in, table balancing, payouts, and leaderboards built in. Free forever for players.
 
@@ -68,7 +79,7 @@ Founder and engineer are the same job here, so one day covers payout math and pr
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
-> Most of my work lives in private product repos, so the graph below is the honest record of the shipping.
+> Much of my product work lives in private repositories. The public libraries above provide inspectable code examples; the contribution graph shows activity.
 
 ---
 
