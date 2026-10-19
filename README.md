@@ -22,7 +22,7 @@
 
 I help individuals, creators, founders, businesses, agencies, and other organizations with focused fixes, features, scripts, API integrations, websites, and web, mobile, or desktop apps.
 
-My core tools are **TypeScript, React, Next.js, React Native, Electron, and Android**. For each engagement, we agree the scope, practical acceptance checks, price, and timing before work starts. I verify the affected user flows and provide a documented handoff with known limitations. Client-owned repositories, domains, and service accounts are the default where the engagement supports them.
+I work across requirements, software design, implementation, debugging, integration, testing, and delivery. Examples of technologies used in my product work include **TypeScript, React, Next.js, React Native, Electron, Android, Node.js, and Firebase**. The approach and tools are chosen for the project. For each engagement, we agree the scope, practical acceptance checks, price, and timing before work starts. I verify the affected user flows and provide a documented handoff with known limitations. Client-owned repositories, domains, and service accounts are the default where the engagement supports them.
 
 **[Discuss a project at henstek.dev](https://henstek.dev)** · [Email HensTek](mailto:tyler.henson@henstek.dev) · [Freelance profile on Contra](https://contra.com/tyler_henson_bw8uuctl)
 
