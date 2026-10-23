@@ -1,15 +1,16 @@
 <h1 align="center">Tyler Henson</h1>
 
 <p align="center">
-  <b>Software engineer · HensTek</b><br>
+  <b>Software engineer · HensTek · Web, mobile, desktop &amp; TV</b><br>
   Founder &amp; CEO @ TourneyTek, Inc. · Building <a href="https://www.pokerhawk.io">Poker Hawk</a>
 </p>
 
 <p align="center">
-  I build and improve websites, apps, and integrations. Based in Tacoma, Washington.
+  I build products and help people turn ideas into useful software. Based in Tacoma, Washington, working remotely.
 </p>
 
 <p align="center">
+  <a href="https://henstek.dev/start"><img alt="Work with HensTek" src="https://img.shields.io/badge/HensTek-Discuss_a_project-38bdf8?style=for-the-badge&logoColor=white"></a>
   <a href="https://www.pokerhawk.io"><img alt="Poker Hawk" src="https://img.shields.io/badge/Poker_Hawk-pokerhawk.io-1f6f4a?style=for-the-badge&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/tyler-henson-354abb1ba"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://tylerhenson.dev"><img alt="Personal website" src="https://img.shields.io/badge/Website-tylerhenson.dev-38bdf8?style=for-the-badge&logoColor=white"></a>
@@ -20,11 +21,25 @@
 
 ### Work with me through HensTek
 
-I help individuals, creators, founders, businesses, agencies, and other organizations with focused fixes, features, scripts, API integrations, websites, and web, mobile, or desktop apps.
+I help individuals, creators, founders, businesses, agencies, and other organizations with focused fixes, features, scripts, API integrations, websites, and web, mobile, desktop or TV apps.
 
-I work across requirements, software design, implementation, debugging, integration, testing, and delivery. Examples of technologies used in my product work include **TypeScript, React, Next.js, React Native, Electron, Android, Node.js, and Firebase**. The approach and tools are chosen for the project. For each engagement, we agree the scope, practical acceptance checks, price, and timing before work starts. I verify the affected user flows and provide a documented handoff with known limitations. Client-owned repositories, domains, and service accounts are the default where the engagement supports them.
+I work across requirements, software design, implementation, debugging, integration, testing, and delivery. Examples of technologies used in my product work include **TypeScript, React, Next.js, React Native, Electron, SwiftUI, Android, Node.js, and Firebase**. The approach and tools are chosen for the project. For each engagement, we agree the scope, practical acceptance checks, price, and timing before work starts. I verify the affected user flows and provide a documented handoff with known limitations. Client-owned repositories, domains, and service accounts are the default where the engagement supports them.
 
-**[Discuss a project at henstek.dev](https://henstek.dev)** · [Email HensTek](mailto:tyler.henson@henstek.dev) · [Freelance profile on Contra](https://contra.com/tyler_henson_bw8uuctl)
+**[Discuss a project](https://henstek.dev/start)** · [Explore working samples](https://henstek.dev/samples) · [Email HensTek](mailto:hello@henstek.dev) · [Freelance profile on Contra](https://contra.com/tyler_henson_bw8uuctl)
+
+### Working sample sets — HensTek
+
+Explore three different ideas across web, native iPhone and desktop. Each set has a live web app, a desktop browser preview, platform source and a walkthrough.
+
+| Set | Scenario and visual direction | Explore | Public source |
+| --- | --- | --- | --- |
+| **CF-01 · Cedar & Fern** | A fictional garden studio. Forest ink, warm paper and botanical details. | [Sample Set 01](https://recondemon.github.io/henstek-sample-set-01/) | [Repository](https://github.com/recondemon/henstek-sample-set-01) |
+| **SA-02 · Side A** | A fictional listening bar and record shop. Bold music posters, a ticket wallet and a guest ledger. | [Sample Set 02](https://recondemon.github.io/henstek-sample-set-02/) | [Repository](https://github.com/recondemon/henstek-sample-set-02) |
+| **SW-03 · Stillwater** | A personal nature journal. An illustrated landscape, pocket journal and desktop writing workspace. | [Sample Set 03](https://recondemon.github.io/henstek-sample-set-03/) | [Repository](https://github.com/recondemon/henstek-sample-set-03) |
+
+[Browse the full gallery](https://henstek.dev/samples). Reference a set and platform in an inquiry, and choose functionality and styling independently: **“SW-03 / Mobile journaling with SA-02 / Web colors and type.”**
+
+These are working examples with fictional data and local storage. Mobile captures come from the native iPhone Simulator; native desktop checks cover Apple silicon macOS. Store releases, production accounts, shared data and integrations are scoped separately. All three sample repositories use the MIT license.
 
 ### Education
 
@@ -84,7 +99,7 @@ Founder and engineer are the same job here, so one day covers payout math and pr
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
-> Much of my product work lives in private repositories. The public libraries above provide inspectable code examples; the contribution graph shows activity.
+> Much of my product work lives in private repositories. The public samples and libraries above provide inspectable code and working examples; the contribution graph shows activity.
 
 ---
 
@@ -97,5 +112,5 @@ Founder and engineer are the same job here, so one day covers payout math and pr
 ---
 
 <p align="center">
-  <sub>Running a poker night that deserves better than a spreadsheet and a stopwatch? <a href="https://www.pokerhawk.io">Start here.</a></sub>
+  <sub>Have a website, app or personal tool in mind? <a href="https://henstek.dev/start">Tell me about it at HensTek.</a><br>Running a poker game? <a href="https://www.pokerhawk.io">Explore Poker Hawk.</a></sub>
 </p>
